@@ -1,0 +1,10 @@
+body {
+    background-color: #dfe7fd;
+  }
+  .question {
+    background-color: #073b4c;
+  }
+  #resultParent {
+    display: none;
+  }
+  
